@@ -1,5 +1,5 @@
 '''
-A fun program in valentines day
+A fun program in valentine's day
 that says 'I love you!'
 by: Nasir Sikder Protul.
 
@@ -28,3 +28,5 @@ mixer.music.load('love.mp3')
 
 #Play the file
 mixer.music.play()
+
+#Finish
